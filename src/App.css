@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  font-family: 'Playfair Display', serif;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  font-family: 'Playfair Display', serif;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+button {
+  font-weight: bold;
+  background-color: lavender;
+  color: black;
+  padding: 12px;
+  width: 180px;
+  height: 55px;
+  font-size: 20px;
+  border: white;
+  margin-bottom: 10px;
+  font-family: 'Playfair Display', serif;
+}
+button:hover {
+    background-color: #9999FF;
+    transition: all ease-in-out .3s;
+}
+
+img{
+  margin-top: 20px;
+}
