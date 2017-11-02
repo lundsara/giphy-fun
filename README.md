@@ -10,7 +10,7 @@ Check it out [here!](http://ballet-giphy.surge.sh/)
 * Giphy API
 * CSS3
 
-![screenshot](https://imgur.com/a/52yee.png)
+![screenshot](https://i.imgur.com/1OYnHkk.png)
 
 
 
